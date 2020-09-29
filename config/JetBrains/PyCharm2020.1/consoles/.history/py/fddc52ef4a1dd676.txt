@@ -1,0 +1,37 @@
+import matplotlib.pyplot as plt
+-. . -..- - / . -. - .-. -.--
+plt.plot(data['run'])
+-. . -..- - / . -. - .-. -.--
+plt.show()
+-. . -..- - / . -. - .-. -.--
+plt.pcolor(data['sresp'])
+-. . -..- - / . -. - .-. -.--
+runfile('/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/dimensionality_analysis.py', wdir='/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code')
+-. . -..- - / . -. - .-. -.--
+runfile('/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/download_data.py', wdir='/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/')
+-. . -..- - / . -. - .-. -.--
+dat['xyz'].tolist()
+-. . -..- - / . -. - .-. -.--
+neurons.tolist()
+-. . -..- - / . -. - .-. -.--
+neurons[np.random.choice(neurons.shape[1], size=n, replace=False)]
+-. . -..- - / . -. - .-. -.--
+n
+-. . -..- - / . -. - .-. -.--
+dat['xyz']
+-. . -..- - / . -. - .-. -.--
+np.size(dat['xyz'])
+-. . -..- - / . -. - .-. -.--
+np.random.choice(neurons.shape[1], size=10, replace=False)
+-. . -..- - / . -. - .-. -.--
+neurons
+-. . -..- - / . -. - .-. -.--
+neurons[:, [1,2,3]]
+-. . -..- - / . -. - .-. -.--
+neurons[:, np.random.choice(neurons.shape[1], size=5, replace=False)]
+-. . -..- - / . -. - .-. -.--
+nn
+-. . -..- - / . -. - .-. -.--
+len(neurons)
+-. . -..- - / . -. - .-. -.--
+runfile('/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/data_examine.py', wdir='/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines')

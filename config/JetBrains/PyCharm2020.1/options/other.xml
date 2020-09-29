@@ -1,0 +1,78 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="jupyter&#10;jupyt&#10;jupy&#10;jup&#10;ju" />
+    <property name="Jupyter Notebook EditorLayout" value="Editor only" />
+    <property name="MarketplacePluginsSearchHistory" value="/tag:Keymap&#10;ipynb&#10;ipy&#10;ip&#10;i" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PACKAGE_FILTER" value="requests&#10;matplotlib&#10;sk&#10;scipy&#10;numpy" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="Sci" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="SplitFileEditor.Proportion" value="0.59777427" />
+    <property name="appcds.runOnSecondStart" value="PY-201.8538.36-e37b5e681a5461d9af32cb132bca789973484fd117d5ac2902e80f088969e96d" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt3.201" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.conda/envs/NMA/bin/python&#10;/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/data_examine.py&#10;/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/download_data.py&#10;/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines&#10;/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code&#10;/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy&#10;/media/kyle/shared_fs_mountpoint/Documents/Notes/Neuromatch Academy&#10;/media/kyle/shared_fs_mountpoint/Documents/Academic/University of the Pacific/course_markdown.py&#10;/home/kyle/.conda/envs/arm_control/bin/python&#10;/home/kyle/Documents/Qt Tests/Test_Project/main.py&#10;/home/kyle/Documents/Qt Tests/Test_Project&#10;/home/kyle/Documents/Misc Projects/Arm Control Python/Tests/pyside_test.py&#10;/home/kyle/Documents/Misc Projects/Arm Control Python/Tests/arm_class_test.py&#10;/home/kyle/Documents/Misc Projects/Arm Control Python/main.py&#10;/home/kyle/Documents/Misc Projects/Arm Control Python" />
+    <property name="file.gist.reindex.count" value="30425" />
+    <property name="fileTypeChangedCounter" value="14" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1595258112638" />
+    <property name="lastSeenTip" value="neue-bf261a36.html" />
+    <property name="lastTimeTipsWereShown" value="1595257757893" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.conda/envs/NMA/bin/python" />
+    <property name="python.packaging.author" value="kyle" />
+    <property name="quick.doc.font.size.v3" value="SMALL" />
+    <property name="seenTips" value="neue-Rename.html,neue-GoToDeclaration.html,neue-SpeedSearchinLiveTemplates.html,neue-ae4f488a.html,neue-bf261a36.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.conda/envs/NMA/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/University of the Pacific/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/arm_control/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/testenv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.conda/envs/NMA/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/University of the Pacific/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/arm_control/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/testenv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.conda/envs/NMA/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/University of the Pacific/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/arm_control/bin/python" value="false" />
+        <entry key="$USER_HOME$/.conda/envs/testenv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

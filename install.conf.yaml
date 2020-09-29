@@ -1,0 +1,51 @@
+- defaults:
+    link:
+      relink: true
+      create: true
+
+- clean: ['~']
+
+- link:
+    ~/.bashrc:
+    ~/.conda/:
+            glob: true
+            path: conda/*
+    ~/.config/:
+            glob: true
+            path: config/*
+    ~/.designer:
+            glob: true
+            path: designer/*
+    ~/.gem:
+            glob: true
+            path: gem/*
+    ~/.gitconfig:
+    ~/.gitmodules:
+    ~/.ipython:
+            glob: true
+            path: ipython/*
+    ~/.java:
+            glob: true
+            path: java/*
+    ~/.julia:
+            glob: true
+            path: julia/*
+    ~/.jupyter:
+            glob: true
+            path: jupyter/*
+    ~/.profile: 
+    ~/texmf:
+            glob: true
+            path: texmf/*
+    ~/.vim: 
+    ~/.vimrc: 
+    ~/.vscode:
+            glob: true
+            path: vscode/*
+    ~/.zotero:
+            glob: true
+            path: zotero/*
+    ~/.zshrc:
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]

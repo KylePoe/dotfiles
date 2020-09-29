@@ -1,0 +1,60 @@
+User belongs to experiment group 'AlwaysDisplayTestExplorer - control'
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - control'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - control'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - control'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaacf'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda env list
+> conda env list
+> pyenv root
+Error 2020-07-17 16:21:53: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/.vscode/settings.json')
+	at _handleError (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:657:25)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+	at async v.readText (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:1:571152)
+	at async p.doesFileNeedToBeFixed (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:932108)
+	at async /home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:931235
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:931181)
+	at async p.updateTestSettings (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:930808)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Python interpreter path: ~/.conda/envs/testenv/bin/python
+Starting Jedi Python language engine.
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> ~/.conda/envs/testenv/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/.conda/envs/testenv/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> pyenv root
+> pyenv root
+> ~/.conda/envs/testenv/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/.conda/envs/testenv/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Error 2020-07-17 16:21:54: Error starting server in serverPreload:  [i [Error]: Jupyter cannot be started. Error attempting to locate jupyter: Data Science libraries jupyter and notebook are not installed in interpreter Python 3.8.3 64-bit ('testenv': conda).
+	at b.startServer (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:297033)
+	at async b.createServer (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:296475)
+	at async connect (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:431240)
+	at async l.createServerIfNecessary (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:505044)] {
+  action: 'https://aka.ms/pyaiinstall',
+  actionTitle: 'Get more help'
+}

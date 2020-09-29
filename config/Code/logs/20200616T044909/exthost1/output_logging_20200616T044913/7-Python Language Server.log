@@ -1,0 +1,12 @@
+[Info  - 4:49:15 AM] Analysis cache path: /home/kyle/.cache/Microsoft/Python Language Server
+[Info  - 4:49:15 AM] Microsoft Python Language Server version 0.5.50.0
+[Info  - 4:49:15 AM] Workspace root: 
+[Info  - 4:49:15 AM] GetCurrentSearchPaths /opt/conda/bin/python 
+[Info  - 4:49:15 AM] Interpreter search paths:
+[Info  - 4:49:15 AM]     /opt/conda/lib/python3.8
+[Info  - 4:49:15 AM]     /opt/conda/lib/python3.8/lib-dynload
+[Info  - 4:49:15 AM]     /home/kyle/.local/lib/python3.8/site-packages
+[Info  - 4:49:15 AM]     /opt/conda/lib/python3.8/site-packages
+[Info  - 4:49:15 AM] User search paths:
+[Info  - 4:49:15 AM] Initializing for /opt/conda/bin/python
+[Info  - 4:49:15 AM] Analysis caching mode: None.

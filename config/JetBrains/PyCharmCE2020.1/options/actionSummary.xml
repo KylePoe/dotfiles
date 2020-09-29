@@ -1,0 +1,27 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="1" last="1592335688862" />
+      </entry>
+      <entry key="GotoAction">
+        <ActionSummary times="1" last="1592335686261" />
+      </entry>
+      <entry key="WelcomeScreen.OpenDirectoryProject">
+        <ActionSummary times="1" last="1592335461168" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="1" last="1592335691475" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="1" last="1592335691456" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="6" last="1592335709961" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="2" last="1592335707079" />
+      </entry>
+    </data>
+  </component>
+</application>

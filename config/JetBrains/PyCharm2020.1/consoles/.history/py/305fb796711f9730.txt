@@ -1,0 +1,51 @@
+import numpy as np
+-. . -..- - / . -. - .-. -.--
+help(np.choice)
+-. . -..- - / . -. - .-. -.--
+help(np.random.choice)
+-. . -..- - / . -. - .-. -.--
+runfile('/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/data_examine.py', wdir='/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests')
+-. . -..- - / . -. - .-. -.--
+neuron_locs - pp
+-. . -..- - / . -. - .-. -.--
+neuron_locs
+-. . -..- - / . -. - .-. -.--
+rel_loc
+-. . -..- - / . -. - .-. -.--
+multivariate_normal.pdf(rel_loc, mean=pp, cov=cov)
+-. . -..- - / . -. - .-. -.--
+cov
+-. . -..- - / . -. - .-. -.--
+mean
+-. . -..- - / . -. - .-. -.--
+pp
+-. . -..- - / . -. - .-. -.--
+probsa
+-. . -..- - / . -. - .-. -.--
+probs
+-. . -..- - / . -. - .-. -.--
+sum(probs)
+-. . -..- - / . -. - .-. -.--
+len(probs)
+-. . -..- - / . -. - .-. -.--
+sum(probs != 0)
+-. . -..- - / . -. - .-. -.--
+nn
+-. . -..- - / . -. - .-. -.--
+dat['xyz'].mean(axis=1)
+-. . -..- - / . -. - .-. -.--
+np.min(dat['xyz'])
+-. . -..- - / . -. - .-. -.--
+np.min(dat['xyz'][0,:])
+-. . -..- - / . -. - .-. -.--
+np.min(dat['xyz'][1,:])
+-. . -..- - / . -. - .-. -.--
+np.min(dat['xyz'][2,:])
+-. . -..- - / . -. - .-. -.--
+np.max(dat['xyz'][2,:])
+-. . -..- - / . -. - .-. -.--
+np.max(dat['xyz'][1,:])
+-. . -..- - / . -. - .-. -.--
+np.max(dat['xyz'][0,:])
+-. . -..- - / . -. - .-. -.--
+runfile('/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/data_examine.py', wdir='/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/')

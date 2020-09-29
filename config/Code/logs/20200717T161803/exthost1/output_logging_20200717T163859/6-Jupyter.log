@@ -1,0 +1,20 @@
+Starting Jupyter from ~/.conda/envs/NMA/bin/python with command line --no-browser --notebook-dir=/tmp/01027206-7c06-45c9-b012-2d498858a754 --config=/tmp/01027206-7c06-45c9-b012-2d498858a754/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+[I 16:39:02.587 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:39:02.592 NotebookApp] Serving notebooks from local directory: /tmp/01027206-7c06-45c9-b012-2d498858a754
+[I 16:39:02.593 NotebookApp] The Jupyter Notebook is running at:
+[I 16:39:02.593 NotebookApp] http://localhost:8889/?token=a4da9ea574151516a40032cb6c333c13b8a1cc05c6e64aff
+[I 16:39:02.593 NotebookApp]  or http://127.0.0.1:8889/?token=a4da9ea574151516a40032cb6c333c13b8a1cc05c6e64aff
+[I 16:39:02.593 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:39:02.596 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/kyle/.local/share/jupyter/runtime/nbserver-14582-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=a4da9ea574151516a40032cb6c333c13b8a1cc05c6e64aff
+     or http://127.0.0.1:8889/?token=a4da9ea574151516a40032cb6c333c13b8a1cc05c6e64aff
+[I 16:39:02.918 NotebookApp] Creating new notebook in /
+[I 16:39:03.006 NotebookApp] Kernel started: 35aefd03-1b8b-4337-9fa5-62a690d08246
+[I 16:39:03.578 NotebookApp] Creating new notebook in /
+[I 16:39:03.632 NotebookApp] Kernel started: 2c208c2a-c20c-430a-bdd7-05bfd80dea09
+[C 16:44:51.759 NotebookApp] received signal 15, stopping
+[I 16:44:51.761 NotebookApp] Shutting down 2 kernels

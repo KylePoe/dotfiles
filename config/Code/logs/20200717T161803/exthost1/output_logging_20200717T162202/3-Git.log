@@ -1,0 +1,263 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /media/kyle/shared_fs_mountpoint/Documents/Notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :tutorials/W1D5_DimensionalityReduction/W1D5_Tutorial3.ipynb
+> git ls-files --stage -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/tutorials/W1D5_DimensionalityReduction/W1D5_Tutorial3.ipynb
+> git cat-file -s 0665acefc9fad45b2f55c4291434d7534485518b
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/tutorials/W1D5_DimensionalityReduction/W1D5_Tutorial3.ipynb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/tutorials/W1D5_DimensionalityReduction/W1D5_Tutorial3.ipynb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:tutorials/W1D1_ModelTypes/W1D1_Tutorial2.ipynb
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/tutorials/W1D1_ModelTypes/W1D1_Tutorial2.ipynb
+> git show --textconv HEAD:tutorials/W1D3_ModelFitting/README.md
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/tutorials/W1D3_ModelFitting/README.md
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv HEAD:Code/Tests/data_examine.py
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/data_examine.py
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:README.md
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/README.md
+> git show --textconv HEAD:.vscode/launch.json
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/.vscode/launch.json
+> git check-ignore -v -z --stdin
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/.vscode/launch.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/.vscode/launch.json
+> git cat-file -s 764f1c9b42d599b5fd4f15aed3c8a6f85c1ae3f5
+> git show --textconv :.vscode/launch.json
+> git show --textconv HEAD:.gitignore
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:LICENSE
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/LICENSE
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/LICENSE
+> git show --textconv HEAD:README.md
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/README.md
+> git show --textconv HEAD:LICENSE
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/LICENSE
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/LICENSE
+> git checkout -q -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/LICENSE
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/LICENSE
+> git show --textconv HEAD:LICENSE
+> git show --textconv HEAD:README.md
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/README.md
+> git checkout -q -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/README.md
+> git symbolic-ref --short HEAD
+> git show --textconv HEAD:README.md
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git show --textconv HEAD:Code/dimensionality_analysis.py
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/dimensionality_analysis.py
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/dimensionality_analysis.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/dimensionality_analysis.py
+> git cat-file -s 3ffc277fe945216c655541e08505029a19f1c836
+> git show --textconv :Code/dimensionality_analysis.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:Code/Tests/data_examine.py
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/data_examine.py
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/data_examine.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:Code/Tests/download_data.py
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/download_data.py
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/download_data.py
+> git show --textconv HEAD:Code/Tests/download_data.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/download_data.py
+> git checkout -q -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/download_data.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/download_data.py
+> git rev-parse --symbolic-full-name Testing@{u}
+> git show --textconv HEAD:Code/Tests/download_data.py
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:Data/stringer_orientations.npy
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Data/stringer_orientations.npy
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Data/stringer_orientations.npy
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:Data/stringer_spontaneous.npy
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Data/stringer_spontaneous.npy
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Data/stringer_spontaneous.npy
+> git show --textconv HEAD:Data/stringer_orientations.npy
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Data/stringer_orientations.npy
+> git ls-tree -l HEAD -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Data/stringer_orientations.npy
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.gitignore
+> git ls-files --stage -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/.gitignore
+> git cat-file -s b6e47617de110dea7ca47e087ff1347cc2646eda
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

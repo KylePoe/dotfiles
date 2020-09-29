@@ -1,0 +1,4 @@
+# Don't VC envs and packages, just the environment backups
+conda/envs
+conda/pkgs
+

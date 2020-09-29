@@ -1,0 +1,1000 @@
+sudo reboot
+sudo apt install guake
+sudo apt install docky
+sudo add-apt-repository ppa:docky-core/ppa
+vim
+nvim
+sudo apt update
+sudo apt upgrade
+sudo apt install git
+git
+ls
+ln --help
+ln /media/kyle/shared_fs_mountpoint/Downloads
+ls
+ln -s /media/kyle/shared_fs_mountpoint/Downloads
+ls
+dc Downloads
+ls
+cd Downloads
+ls
+cd ..
+ls
+ln -s /media/kyle/shared_fs_mountpoint/Documents/
+ln -s /media/kyle/shared_fs_mountpoint/Pictures/
+ln -s /media/kyle/shared_fs_mountpoint/Music/
+ln -s /media/kyle/shared_fs_mountpoint/Videos/
+ls
+cd Documents
+ls
+cd ../Downloads
+ls
+./JuliaPro-1.4.2-1_build-100.sh 
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd usr
+ls
+cd local
+ls
+cd
+sudo apt search julia
+sudo apt install julia
+julia
+ls
+julia
+ls
+sudo apt search miniconda
+curl https://repo.anaconda.com/pkgs/misc/gpgkeys/anaconda.asc | gpg --dearmor > conda.gpg
+sudo apt install curl
+curl https://repo.anaconda.com/pkgs/misc/gpgkeys/anaconda.asc | gpg --dearmor > conda.gpg
+install -o root -g root -m 644 conda.gpg /usr/share/keyrings/conda-archive-keyring.gpg
+sudo install -o root -g root -m 644 conda.gpg /usr/share/keyrings/conda-archive-keyring.gpg
+gpg --keyring /usr/share/keyrings/conda-archive-keyring.gpg --no-default-keyring --fingerprint 34161F5BF5EB1D4BFBBB8F0A8AEB4F8B29D82806
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/conda-archive-keyring.gpg] https://repo.anaconda.com/pkgs/misc/debrepo/conda stable main" > /etc/apt/sources.list.d/conda.list
+sudo echo "deb [arch=amd64 signed-by=/usr/share/keyrings/conda-archive-keyring.gpg] https://repo.anaconda.com/pkgs/misc/debrepo/conda stable main" > /etc/apt/sources.list.d/conda.list
+sudo vim /etc/apt/sources.list.d/conda.list
+apt update
+pt update
+apt update
+sudo apt update
+apt list
+ls
+apt --help
+sudo ls /etc/apt/sources.list.d
+sudo rm -i /etc/apt/sources.list.d/docky-core-ubuntu-ppa-focal.list 
+sudo apt update
+apt install conda
+sudo apt install conda
+conda
+source /opt/conda/etc/profile.d/conda.sh
+conda -V
+conda
+source --help
+conda -V
+which python
+vim /opt/conda/etc/profile.d/conda.sh
+vim /opt/conda/etc/profile.d
+ls
+python /home/kyle/.vscode/extensions/ms-python.python-2020.5.86806/pythonFiles/pyvsc-run-isolated.py pip install -U pylint
+octave
+julia
+sudo mv Zotero_linux-x86_64/ /usr/local
+cd /usr/local
+ls
+cd Zotero_linux-x86_64/
+ls
+zoterpo
+./zotero
+conda
+cd /opt/conda
+ls
+cd bin
+ls
+conda
+./conda
+cd ..
+cd
+ls
+cd conda
+vim .profile 
+source .profile 
+conda
+nvim
+s -a
+ls -a
+which nvim
+cd /usr/local
+ls -a
+cd bin
+ls
+which neovim
+which nvim
+sudo add-apt-repository universe
+sudo apt install gnome-tweak-tool
+gnome-tweaks &
+ls
+cd ~/Downloads
+ls
+ls -ltr
+ls
+cd
+cd /usr/local/
+ls
+sudo rm -r Zotero_linux-x86_64/
+ls
+conda update conda
+sudo conda update conda
+cd /opt/conda
+ls
+cd bin
+ls
+sudo conda update conda
+sudo ./conda update conda
+cd
+cd ..
+ls
+cd /opt/
+ls
+chmod --help
+ls -ltr
+chmod u+w conda
+sudo chmod u+w conda
+ls
+ls -ltr
+sudo chmod o+w conda
+ls -ltr
+ls
+cd conda
+ls
+cd
+conda update conda
+ls
+cd Documents
+ls
+mkdir Conda\ Environments
+ls
+cd Conda\ Environments/
+ls
+cd ..
+mv Conda\ Environments/ Conda\ Tests
+ls
+cd conda
+cd Conda\ Tests/
+ls
+conda create -n snowflakes biopython
+conda env
+conda list
+conda env list
+conda activate snowflakes
+conda -v
+conda -V
+sudo apt install zsh
+zsh --help
+zsh
+zsh
+ls
+sudo vim /etc/hostname
+sudo vim /etc/hosts
+sudo reboot
+ls
+conda activate snowflaks
+conda init bash
+ls
+conda activate snowflakes
+ls
+vim .bashrc
+conda info -e
+conda activate
+conda create --name snakes python=3.5
+conda activate snakes
+which python
+python -V
+python
+conda info -e
+python --versino
+python --version
+conda activate
+conda search beautifulsoup4
+conda install beautifulsoup4
+conda lis
+conda list
+conda activate snakes
+conda install beautifulsoup4
+conda list
+conda
+xonda list
+conda list
+conda list --name base
+conda create -c snakes -snakeyboi
+conda create -c snakes -n snakeyboi
+conda envs
+conda env list
+conda env
+conda env export -n snakeyboi
+conda env export -n snakes
+conda list -n snakeyboi
+conda remove -n snakeyboi -a
+conda remove -n snakeyboi -all
+conda remove -n snakeyboi --all
+ls
+conda create --clone snakes --name snakeyboi
+conda list -n snakeyboi
+conda env export -n snakeyboi > env.yml
+ls
+vim env.yml 
+rm env.yml
+conda env create\
+conda env create
+conda env export -n snakes > snake.yml
+conda env create -f snake.yml -n newsnake
+conda list -n newsnake
+ls
+s
+ls -ltr
+cd Documents
+ls
+ls -ltr
+cd ..
+cd /media
+ls
+cd kyle
+ls
+ls -ltr
+ls
+ls -ltr
+cd
+ls -ltr
+cd -
+ls -ltr
+cd ..
+ls
+ls -ltr
+sudo chmod u+rw .
+ls -ltr
+sudo chmod ug+rw .
+ls -ltr
+sudo chmod +rw .
+ls -ltr
+cd
+which zotero
+ls -ltr
+cd -
+ls
+sudo chmod o+rw kyle
+ls -ltr
+cd ..
+ls -ltr
+git
+git init
+ls
+ls -a
+cd .git
+ls
+cd ..
+ls
+cd Documents
+ls
+mkdir Misc\ Projects
+ls
+cd Misc\ Projects/
+ls
+mkdir Arm\ Control\ Python
+ls
+cd Arm\ Control\ Python/
+ls
+git init --help
+ls
+conda env --help
+conda env create arm_control
+conda env arm_control --create
+conda env create
+conda create -n arm_control
+conda activate arm_control
+conda install numpy
+conda install matplotlib
+sudo snap install pycharm-professional
+sudo snap install pycharm-professional --classic
+ls
+cd 
+cd Documents
+ls
+mkdir Notes
+ls
+cd Notes/
+ls
+vim courses_fall_2020
+conda activate arm_control
+conda -h
+conda create -n PyQt_Experiment
+conda create -n PyQt_Experiment PySide2
+conda -h\
+conda -h
+conda search pyside2
+conda -h
+conda create -n PyQt_Experiment -c conda-forge pyside2
+conda activate PyQt_Experiment
+conda activate arm_control
+conda install pyside2
+conda install -c conda-forge pyside2
+conda install pyside2 -c conda-forge
+conda search sphinx
+conda install sphinx
+conda install numpy PyOpenGL
+which libclang
+wget https://download.qt.io/development_releases/prebuilt/libclang/libclang-release_60-linux-Rhel7.2-gcc5.3-x86_64-clazy.7z
+ls
+mv libclang-release_60-linux-Rhel7.2-gcc5.3-x86_64-clazy.7z /usr/local/
+sudo mv libclang-release_60-linux-Rhel7.2-gcc5.3-x86_64-clazy.7z /usr/local/
+cd /usr/local/
+ls
+7z x libclang-release_60-linux-Rhel7.2-gcc5.3-x86_64-clazy.7z 
+sudo apt install p7zip-full
+7z x libclang-release_60-linux-Rhel7.2-gcc5.3-x86_64-clazy.7z 
+ls
+sudo 7z x libclang-release_60-linux-Rhel7.2-gcc5.3-x86_64-clazy.7z 
+ls
+sudo rm libclang-release_60-linux-Rhel7.2-gcc5.3-x86_64-clazy.7z 
+ls
+export CLANG_INSTALL_DIR=$PWD/libclang
+conda env list
+conda env --list
+conda list
+cd
+git clone --recursive https://code.qt.io/pyside/pyside-setup
+cd pyside-setup/
+ls
+git checkout 5.12
+cd /opt/Qt
+python setup.py build --qmake=/opt/Qt/5.12.3/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+cd ~/Downloads
+ls
+./qt-unified-linux-x64-3.2.3-online.run 
+ls
+conda list
+cd /opt/
+ls
+cd
+ls
+cd Qt/
+ls
+cd Exma
+cd Examples/
+ls
+cd Qt-5.15.0/
+ls
+cd widgets/
+ls
+cd widgets/
+ls
+cd tetrix/
+ls
+cd .
+cd
+ls
+cd pysid
+cd pyside-setup/
+ls
+git checkout 5.15
+ls
+less README.
+less README.md
+python setup.py build --qmake=~/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+python setup.py build --qmake=/home/kyle/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+sudo apt install cmake
+python setup.py build --qmake=/home/kyle/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+cd ../Qt/
+ls
+cd Examples/
+ls
+cd Qt-5.15.0/
+ls
+cd widgets/
+ls
+cd tetrix/
+ls
+sudo apt install gcc
+cmake --version
+git -V
+git --version
+libclang --version
+sudo apt install libgl-dev python-dev python-distutils python-setuptools
+cd
+conda create --name testenv
+conda activate testenv
+conda install sphinx
+conda install numpy PyOpenGL
+$CLANG_INSTALL_DIR
+cd pyside-setup/
+ls
+git checkout 5.15
+python setup.py build --qmake=/home/kyle/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+libclang
+cd ../Qt/
+ls
+cd Examples/
+ls
+cd Qt-5.15.0/
+ls
+cd widgets/
+ls
+cd widgets/q
+cd widgets/
+ls
+cd tetrix/
+ls
+cd
+cd Qt/
+ls
+cd 5.15.0/
+ls
+cd ..
+ls
+cd ..
+cd pyside-setup/
+python setup.py install --qmake=/home/kyle/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+/home/kyle/pyside-setup/sources/shiboken2/doc/index.rst:2: WARNING: Duplicate explicit target name: "qt for python".
+cd
+cd /usr/local
+ls
+cd libclang/
+ls
+cd bin
+ls
+cd ..
+ls
+cd share/
+ls
+cd man
+ls
+cd man1/
+ls
+./scan-build.1 
+cd ..
+ls
+cd ../..
+ls
+cd
+cd Downloads
+ls
+./qt-unified-linux-x64-3.2.3-online.run 
+apt install mesa-common-dev libglu1-mesa-dev
+sudo apt install mesa-common-dev libglu1-mesa-dev
+cd ~/pyside-setup/
+ls
+python setup.py build --qmake=/home/kyle/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+python setup.py install --qmake=/home/kyle/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+cd ..
+cd Qt
+ls
+cd Examples/
+ls
+cd Qt-5.15.0/
+ls
+cd widgets/
+ls
+cd widgets/
+ls
+cd tetrix/
+ls
+gcc main.cpp 
+cd ..
+ls
+less README 
+cd ../..
+ls
+cd gamepad/
+ls
+cd quickGamepad/
+ls
+gcc main.cpp 
+cd
+cd /opt/
+ls
+cd ..
+ls
+conda
+conda info
+cd /home/kyle/.conda/envs
+cd testenv/
+ls
+cd lib/python3.8/
+ls
+cd site-packages/
+ls
+cd PySide2
+ls
+cd examples/
+ls
+cd widgets/
+ls
+python tetrix.py 
+sudo apt list | grep qt5
+conda list
+apt search qt5
+cd
+ls
+cd /usr/local
+ls
+cd
+apt search qt5
+sudo apt install qt5-default
+qt
+qt5
+qt
+Qt
+sudo apt remove qt5-default
+sudo apt autoremove
+sudo apt install qtcreator
+sudo apt install build-essential
+sudo apt install qt5-default
+sudo apt install qt5-doc qt5-doc-html qtbase5-doc-html qtbase5-examples
+qt
+conda create -n testenv2
+conda install sphinx
+conda install numpy PyOpenGL
+$CLANG_INSTALL_DIR
+CLANG_INSTALL_DIR
+cd /usr/local
+ls
+cd libclang/
+cd ..
+export CLANG_INSTALL_DIR=$PWD/libclang
+cd
+cd pyside-setup/
+ls
+git checkout 5.12
+ls
+cd
+ls
+cd /
+ls
+cd opt/
+ls
+cd ..
+cd home/kyle
+ls
+sudo apt-get install build-essential libgl1-mesa-dev
+qmake --versino
+qmake --version
+cd /usr/lib/x86_64-linux-gnu/
+ls
+cd qt5
+ls
+cd examples/
+ls
+cd widgets/
+ls
+cd widgets/
+ls
+cd tetrix/
+ls
+cd
+python setup.py build --qmake=/usr/lib/x86_64-linux-gnu/qt5/bin/qmake --build-tests --ignore-git --parallel=8
+ls
+cd pyside-setup/
+ls
+conda activate testenv2
+conda install sphinx
+conda install numpy PyOpenGL
+python setup.py build --qmake=/usr/lib/x86_64-linux-gnu/qt5/bin/qmake --build-tests --ignore-git --parallel=8
+conda activate base
+conda -h
+conda env -h
+conda env remove testenv2
+conda env remove -n testenv2
+conda env list
+conda create -n testenv2 python=3.7
+conda activate testenv2
+conda install sphinx
+conda install numpy PyOpenGL
+python setup.py build --qmake=/usr/lib/x86_64-linux-gnu/qt5/bin/qmake --build-tests --ignore-git --parallel=8
+sudo apt-get install qttools5-dev-tools libqt5svg5-dev qtmultimedia5-dev qttools5-dev
+python setup.py build --qmake=/usr/lib/x86_64-linux-gnu/qt5/bin/qmake --build-tests --ignore-git --parallel=8
+sudo apt-get install qtbase5-private-dev
+python setup.py build --qmake=/usr/lib/x86_64-linux-gnu/qt5/bin/qmake --build-tests --ignore-git --parallel=8
+cd ..
+cd pyside-setup/
+ls
+less README.
+less README.md
+less README.pyside2.md 
+less setup.py
+conda install pyside2
+less README.pyside2.md 
+conda install PySide2
+conda install pyside2 -c conda-forge
+apt search pyside2
+cd ..
+sudo apt remove qt5-default PySide2 && sudo apt autoremove
+sudo apt remove qt5-default && sudo apt autoremove
+sudo apt autoremove~
+sudo apt autoremove
+conda activate base
+conda env remove -n testenv2
+conda env list
+wget http://download.qt.io/official_releases/qt/5.15/5.15.0/qt-opensource-linux-x64-5.15.0.run
+sudo apt autoremove && sudo apt update && sudo apt upgrade
+ls
+cd Downloads
+ls
+apt list
+apt -h
+sudo apt autoremove
+apt list --installed
+apt list --installed | grep qt5
+sudo apt autoremove '.*qt5.*-dev'
+sudo apt autoremove '.*qt5.*'
+sudo apt autoremove '.*qt5.*-dev'
+sudo apt remove '.*qt5.*-dev'
+sudo apt purge -s qtchooser
+sudo apt autoremove
+sudo apt purge -s qtchooser
+apt search pyside2
+sudo apt install pyside2
+conda activate arm_control
+$QML_IMPORT_PATH
+cd /opt/Qt/Tools
+ls
+cd ..
+l
+ls
+l
+ls
+l
+./MaintenanceTool 
+cd /usr/lib/
+ls
+cd
+cd .con
+ls
+ls -a
+cd .conda
+ls
+cd envs
+ls
+cd arm_control/
+ls
+cd /opt/Qt/Tools/
+ls
+cd QtCreator/
+ls
+cd bin
+ls
+./qtcreator &
+python
+$QML_IMPORT_PATH
+export QML_IMPORT_PATH=/home/kyle/.conda/envs/arm_control/qml
+python
+conda list
+conda activate testenc
+conda activate testenv
+conda list
+cd 
+cd .conda/envs/testenv/
+ls
+cd
+cd .conda/envs/testenv/
+l
+cd ../arm_control/
+ls
+cd ../testenv/
+ls
+conda install pyside2 -c conda-forge
+ls
+qml
+cd qml
+pwd
+ls
+cd QtQuick
+ls
+cd ..
+ls
+ls-a
+ls -a
+cd ..
+ls
+cd doc
+ls
+cd global/
+ls
+cd ../..
+ls
+cd qml
+ls
+cd QtQuick
+ls
+cd ..
+ls
+conda list
+conda activate base
+conda remove -n testenv
+conda create -n testenv
+conda activate testenv
+ls
+conda list
+conda activate arm_control
+ls
+conda list
+conda activate testenv
+$QML_IMPORT_PATH
+$QML2_IMPORT_PATH
+export QML2_IMPORT_PATH=/home/kyle/.conda/envs/testenv/qml
+conda
+conda activate testenv
+conda list
+conda activate base
+conda remove -n testenv
+conda env remove --name testenv
+conda create -n testenv
+conda activate testenv
+conda install sphinx
+conda install numpy PyOpenGL
+cd
+ls
+cd pyside-setup/
+git checkout 5.15
+sudo python setup.py build --qmake=/opt/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+python setup.py build --qmake=/opt/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+sudo apt install libclang-6.0-dev
+sudo apt install build-essential fakeroot dpkg-dev
+python setup.py build --qmake=/opt/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+cd /usr/lib/llvm-10/include
+ls
+export CLANG_INSTALL_DIR=/usr/local/libclang
+cd
+python pyside-setup/setup.py build --qmake=/opt/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+cd pyside-setup/
+ls
+git checkout 5.15
+python setup.py build --qmake=/opt/Qt/5.15.0/gcc_64/bin/qmake --build-tests --ignore-git --parallel=8
+python setup.py install --qmake=/opt/Qt/5.15.0/gcc_64/bin/qmake --reuse-build --ignore-git --parallel=8
+conda list
+cd ~/.conda/envs/testenv/
+ls
+cd bin
+ls
+cd /opt/Qt
+cd Tools/
+ls
+./QtCreator/
+cd QtCreator/
+ls
+cd bin
+ls
+./qtcreator
+bg
+ls
+cd ..
+echo "export $PWD"
+echo "export PATH=$PATH:$PWD/bin" >> ~/.profile 
+$PATH
+apt search pyside2
+cd
+sudo apt autoremove
+sudo apt purge -s qtchooser
+sudo apt autoremove
+sudo apt remove --purge
+sudo apt purge qtchooser
+cd Downloads
+ls
+chmod +x qt-unified-linux-x64-3.2.3-online.run 
+ls
+sudo ./qt-unified-linux-x64-3.2.3-online.run 
+cd ..
+ls
+cd /op
+cd /opt
+ls
+cd Qt
+ls
+cd 5.15.0/
+ls
+cd ..
+ls
+qt
+Qt
+sudo qt
+ls
+cd 5.15.0/
+cd
+qtcreator
+which qtcreator
+sudo qtcreato
+sudo qtcreator
+cd /opt/Qt
+ls
+cd Tools/
+ls
+cd QtCreator/
+ls
+cd bin
+ls
+./qtcreator
+./qtcreator &
+conda activate arm_control
+ls
+conda install pyside2 -c conda-forge
+conda list
+qtcreator
+cd
+qtcreator &
+conda activate testenv
+conda list
+cd /opt/Qt
+ls
+cd 5.15.0/
+ls
+cd gcc_64/
+ls
+cd bin
+ls
+cd ..
+export PATH=$PATH:$PWD/bin
+cd
+cd Documents
+ls
+cd Qt\ Tests/
+cd untitled/
+ls
+qmlscence main.qml 
+qmlscene main.qml
+python main.py 
+qmlscene main.qml 
+qmlscene main.qml
+cd ..
+ls
+cd Arm\ Control/
+ls
+cd Arm_Control_App/
+ls
+python main.py 
+cd ..
+ls
+cd ..
+ls
+cd boxes/
+;s
+ls
+cd ..
+ls
+cd quick_tutorial/
+ls
+qtcreator &
+cd
+qtcreator &
+sudo qtcreator &
+sudo qtcreator
+sudo qtcreator &
+cd /opt/Qt
+ls
+cd 5.15.0/
+ls
+cd gcc_64/
+ls
+cd bin
+sudo ./qtcreator
+ls
+cd ../../..
+ls
+cd Tools/
+ls
+cd QT
+cd QtCreator/
+ls
+cd bin
+ls
+sudo qtcreator&
+sudo ./qtcreator &
+python
+qtcreator &
+ls
+qtcreator &
+ssh-keygen
+ssh-keygen --help
+ls
+cd
+cat .ssh/id_rsa
+cat .ssh/id_rsa.pub
+ls
+cd /mnt
+ls
+cd /media
+ls
+cd kyle/
+ls
+ls -ltr
+chmod 1777 shared_fs_mountpoint/
+sudo chmod 1777 shared_fs_mountpoint/
+ls
+sudo chown -R kyle:kyle shared_fs_mountpoint/
+sudo chown -R kyle:kyle shared_fs_mountpoint/*
+ls
+s -ltr
+ls -ltr
+sudo chown -R kyle:kyle shared_fs_mountpoint/*
+ls -ltr
+sudo chown -R kyle:kyle /media/kyle
+ls -ltr
+ls -0ltr
+ls -ltr
+ls
+ls lr
+ls -lr
+sudo chown -R kyle:kyle /media/kyle/shared_fs_mountpoint/
+ls
+ls -ltr
+id -u
+id -g
+vim /etc/fstab
+sudo vim /etc/fstab
+cd /media
+ls
+cd kyle
+ls
+ls -ltr
+ls
+sudo chmod 777 shared_fs_mountpoint/
+sudo chmod 777 shared_fs_mountpoint/*
+ls -ltr
+cd shared_fs_mountpoint/
+ls
+ls -ltr
+sudo vim /etc/fstab
+ls
+ls -ltr
+cd ..
+ls
+cd
+ls
+ls -ltr
+sudo vim /etc/fstab
+ls
+ls -ltr
+ls
+ls -ltr
+ls -ltra
+ssh root@kpoe.info
+ls
+ssh root@kylepoe.info
+timedatectl set-local-rtc 1 --adjust-system-clock
+sudo vim /etc/default/rcS
+cd /etc/default/
+ls
+timedatectl
+ipython
+sudo apt install ipython3
+ipython
+ipython3
+conda list
+conda env list
+conda --help
+conda create --name scipy_tutorial
+conda activate scipy_tutorial
+ls
+conda --help
+conda install scipy
+python
+ipython
+ipython3
+ls
+conda install ipython3
+python
+conda install ipython
+ipython
+conda install matplotlib
+ipython
+cd
+ls
+cd Documents
+ls
+cd Academic/
+ls
+cd University\ of\ the\ Pacific/
+ls
+pycharm-professional .
+ls
+ls -ltr

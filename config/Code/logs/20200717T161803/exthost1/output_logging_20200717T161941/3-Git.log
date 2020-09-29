@@ -1,0 +1,47 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse Testing
+> git rev-parse --symbolic-full-name Testing@{u}
+> git rev-list --left-right Testing...refs/remotes/origin/Testing
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /media/kyle/shared_fs_mountpoint/Documents/Notes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :tutorials/W1D5_DimensionalityReduction/W1D5_Tutorial3.ipynb
+> git ls-files --stage -- /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/tutorials/W1D5_DimensionalityReduction/W1D5_Tutorial3.ipynb
+> git cat-file -s 0665acefc9fad45b2f55c4291434d7534485518b

@@ -1,0 +1,402 @@
+lsusb && lsusb -v
+lsusb && lsusb -v | grep finger
+lsusb && `lsusb -v` | grep finger
+lsusb
+sudo apt install fprintd libpam-fprintd
+fprintd-enroll
+sudo apt install fprintd libpam-fprintd
+fprintd-enroll
+gedit ~/.config/user-dirs.dirs
+sudo apt install gparted
+gparted&
+gedit ~/.config/user-dirs.dirs
+cd ..
+ls
+cd Windows_Linux\ Shared/
+ls
+cd /media/kyle/Windows_Linux\ Shared/
+ls
+cd Documents/
+ls
+cd ..
+ls
+cd /media/
+ls
+cd kyle
+ls
+cd Windows_Linux\ Shared/
+ls
+cd Documents/
+ls
+cd ~/.config/
+LS
+ls
+gedit user-dirs.dirs 
+xdg-user-dirs-update --set DOWNLOAD /media/kyle/Windows_Linux\ Shared/Downloads
+xdg-user-dirs-update --set PICTURES /media/kyle/Windows_Linux\ Shared/Pictures
+xdg-user-dirs-update --set PICTURE /media/kyle/Windows_Linux\ Shared/Pictures
+gedit ~/.config/user-dirs.dirs
+xdg-user-dirs-update --set DOWNLOAD /media/kyle/Windows_Linux\ Shared/Downloads
+gedit ~/.config/user-dirs.dirs
+xdg-user-dirs-update
+gedit ~/.config/user-dirs.dirs
+gedit ~/.config/user-dirs.dirs &
+xdg-user-dirs-update --set DOWNLOAD /media/kyle/Windows_Linux\ Shared/Downloads
+xdg-user-dirs-update --set DOCUMENTS /media/kyle/Windows_Linux\ Shared/Documents
+xdg-user-dirs-update --set MUSIC /media/kyle/Windows_Linux\ Shared/Music
+xdg-user-dirs-update --set PICTURES /media/kyle/Windows_Linux\ Shared/Pictures
+xdg-user-dirs-update --set VIDEOS /media/kyle/Windows_Linux\ Shared/Videos
+xdg-user-dirs-update --set DOCUMENTS /media/kyle/Windows_Linux\ Shared/Documents
+xdg-user-dirs-update --set MUSIC /media/kyle/Windows_Linux\ Shared/Music
+xdg-user-dirs-update --set PICTURES /media/kyle/Windows_Linux\ Shared/Pictures
+xdg-user-dirs-update --set DOWNLOAD /media/kyle/Windows_Linux\ Shared/Downloads
+sudo nano /etc/fstab
+sudo vim /etc/fstab
+suo apt install vim
+sudo apt install nvim
+sudo apt install neovim
+sudo nvim /etc/fstab
+gedit ~/.config/user-dirs.dirs &
+gedit ~/.config/user-dirs.conf
+sudo blkid
+sudo cp /etc/fstab /etc/fstab.backup
+cd /media/
+ls
+cd kyle
+ls
+xdg-user-dirs-update --set DOCUMENTS /media/kyle/Windows_Linux\ Shared/Documents
+xdg-user-dirs-update --set PICTURES /media/kyle/Windows_Linux\ Shared/Pictures
+xdg-user-dirs-update --set DOWNLOAD /media/kyle/Windows_Linux\ Shared/Downloads
+xdg-user-dirs-update --set VIDEOS /media/kyle/Windows_Linux\ Shared/Videos
+xdg-user-dirs-update --set MUSIC /media/kyle/Windows_Linux\ Shared/Music
+vim ~/.config/user-dirs.dirs
+cd /media/
+ls
+cd kyle
+ls
+umount
+umount --help
+ls
+cd ..
+ls
+cd kyle
+ls
+cd ..
+ls
+cd kyle
+ls
+mkdir "Linux/Windows Shared"
+mkdir 'Linux/Windows Shared'
+ls
+sudo mkdir 'Linux/Windows Shared'
+~ls
+ls
+mkdir shared_fs_mountpoint
+sudo mkdir shared_fs_mountpoint
+ls
+cd shared_fs_mountpoint/
+ls
+cd ..
+ls
+sudo vim /etc/fstab
+sudo vim ~/.config/user-dirs.dirs
+ls
+sudo vim ~/.config/user-dirs.dirs
+sudo reboot
+sudo apt install guake
+sudo apt install docky
+sudo add-apt-repository ppa:docky-core/ppa
+vim
+nvim
+sudo apt update
+sudo apt upgrade
+sudo apt install git
+git
+ls
+ln --help
+ln /media/kyle/shared_fs_mountpoint/Downloads
+ls
+ln -s /media/kyle/shared_fs_mountpoint/Downloads
+ls
+dc Downloads
+ls
+cd Downloads
+ls
+cd ..
+ls
+ln -s /media/kyle/shared_fs_mountpoint/Documents/
+ln -s /media/kyle/shared_fs_mountpoint/Pictures/
+ln -s /media/kyle/shared_fs_mountpoint/Music/
+ln -s /media/kyle/shared_fs_mountpoint/Videos/
+ls
+cd Documents
+ls
+cd ../Downloads
+ls
+./JuliaPro-1.4.2-1_build-100.sh 
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd usr
+ls
+cd local
+ls
+cd
+sudo apt search julia
+sudo apt install julia
+julia
+ls
+julia
+ls
+sudo apt search miniconda
+curl https://repo.anaconda.com/pkgs/misc/gpgkeys/anaconda.asc | gpg --dearmor > conda.gpg
+sudo apt install curl
+curl https://repo.anaconda.com/pkgs/misc/gpgkeys/anaconda.asc | gpg --dearmor > conda.gpg
+install -o root -g root -m 644 conda.gpg /usr/share/keyrings/conda-archive-keyring.gpg
+sudo install -o root -g root -m 644 conda.gpg /usr/share/keyrings/conda-archive-keyring.gpg
+gpg --keyring /usr/share/keyrings/conda-archive-keyring.gpg --no-default-keyring --fingerprint 34161F5BF5EB1D4BFBBB8F0A8AEB4F8B29D82806
+echo "deb [arch=amd64 signed-by=/usr/share/keyrings/conda-archive-keyring.gpg] https://repo.anaconda.com/pkgs/misc/debrepo/conda stable main" > /etc/apt/sources.list.d/conda.list
+sudo echo "deb [arch=amd64 signed-by=/usr/share/keyrings/conda-archive-keyring.gpg] https://repo.anaconda.com/pkgs/misc/debrepo/conda stable main" > /etc/apt/sources.list.d/conda.list
+sudo vim /etc/apt/sources.list.d/conda.list
+apt update
+pt update
+apt update
+sudo apt update
+apt list
+ls
+apt --help
+sudo ls /etc/apt/sources.list.d
+sudo rm -i /etc/apt/sources.list.d/docky-core-ubuntu-ppa-focal.list 
+sudo apt update
+apt install conda
+sudo apt install conda
+conda
+source /opt/conda/etc/profile.d/conda.sh
+conda -V
+conda
+source --help
+conda -V
+which python
+vim /opt/conda/etc/profile.d/conda.sh
+vim /opt/conda/etc/profile.d
+ls
+python /home/kyle/.vscode/extensions/ms-python.python-2020.5.86806/pythonFiles/pyvsc-run-isolated.py pip install -U pylint
+octave
+julia
+sudo mv Zotero_linux-x86_64/ /usr/local
+cd /usr/local
+ls
+cd Zotero_linux-x86_64/
+ls
+zoterpo
+./zotero
+conda
+cd /opt/conda
+ls
+cd bin
+ls
+conda
+./conda
+cd ..
+cd
+ls
+cd conda
+vim .profile 
+source .profile 
+conda
+nvim
+s -a
+ls -a
+which nvim
+cd /usr/local
+ls -a
+cd bin
+ls
+which neovim
+which nvim
+sudo add-apt-repository universe
+sudo apt install gnome-tweak-tool
+gnome-tweaks &
+ls
+cd ~/Downloads
+ls
+ls -ltr
+ls
+cd
+cd /usr/local/
+ls
+sudo rm -r Zotero_linux-x86_64/
+ls
+conda update conda
+sudo conda update conda
+cd /opt/conda
+ls
+cd bin
+ls
+sudo conda update conda
+sudo ./conda update conda
+cd
+cd ..
+ls
+cd /opt/
+ls
+chmod --help
+ls -ltr
+chmod u+w conda
+sudo chmod u+w conda
+ls
+ls -ltr
+sudo chmod o+w conda
+ls -ltr
+ls
+cd conda
+ls
+cd
+conda update conda
+ls
+cd Documents
+ls
+mkdir Conda\ Environments
+ls
+cd Conda\ Environments/
+ls
+cd ..
+mv Conda\ Environments/ Conda\ Tests
+ls
+cd conda
+cd Conda\ Tests/
+ls
+conda create -n snowflakes biopython
+conda env
+conda list
+conda env list
+conda activate snowflakes
+conda -v
+conda -V
+sudo apt install zsh
+zsh --help
+zsh
+zsh
+ls
+sudo vim /etc/hostname
+sudo vim /etc/hosts
+sudo reboot
+ls
+conda activate snowflaks
+conda init bash
+ls
+conda activate snowflakes
+ls
+vim .bashrc
+conda info -e
+conda activate
+conda create --name snakes python=3.5
+conda activate snakes
+which python
+python -V
+python
+conda info -e
+python --versino
+python --version
+conda activate
+conda search beautifulsoup4
+conda install beautifulsoup4
+conda lis
+conda list
+conda activate snakes
+conda install beautifulsoup4
+conda list
+conda
+xonda list
+conda list
+conda list --name base
+conda create -c snakes -snakeyboi
+conda create -c snakes -n snakeyboi
+conda envs
+conda env list
+conda env
+conda env export -n snakeyboi
+conda env export -n snakes
+conda list -n snakeyboi
+conda remove -n snakeyboi -a
+conda remove -n snakeyboi -all
+conda remove -n snakeyboi --all
+ls
+conda create --clone snakes --name snakeyboi
+conda list -n snakeyboi
+conda env export -n snakeyboi > env.yml
+ls
+vim env.yml 
+rm env.yml
+conda env create\
+conda env create
+conda env export -n snakes > snake.yml
+conda env create -f snake.yml -n newsnake
+conda list -n newsnake
+ls
+s
+ls -ltr
+cd Documents
+ls
+ls -ltr
+cd ..
+cd /media
+ls
+cd kyle
+ls
+ls -ltr
+ls
+ls -ltr
+cd
+ls -ltr
+cd -
+ls -ltr
+cd ..
+ls
+ls -ltr
+sudo chmod u+rw .
+ls -ltr
+sudo chmod ug+rw .
+ls -ltr
+sudo chmod +rw .
+ls -ltr
+cd
+which zotero
+ls -ltr
+cd -
+ls
+sudo chmod o+rw kyle
+ls -ltr
+cd ..
+ls -ltr
+git
+git init
+ls
+ls -a
+cd .git
+ls
+cd ..
+ls
+cd Documents
+ls
+mkdir Misc\ Projects
+ls
+cd Misc\ Projects/
+ls
+mkdir Arm\ Control\ Python
+ls
+cd Arm\ Control\ Python/
+ls
+git init --help
+ls
+conda env --help
+conda env create arm_control
+conda env arm_control --create
+conda env create
+conda create -n arm_control
+conda activate arm_control
+conda install numpy
+conda install matplotlib

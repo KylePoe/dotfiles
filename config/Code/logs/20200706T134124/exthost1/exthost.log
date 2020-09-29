@@ -1,0 +1,20 @@
+[2020-07-06 13:41:26.886] [exthost] [info] extension host started
+[2020-07-06 13:41:26.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-06 13:41:26.900] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-06 13:41:26.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-06 13:41:26.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-06 13:41:26.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-06 13:41:26.924] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-06 13:41:26.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-06 13:41:26.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-06 13:41:26.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-06 13:41:26.958] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-07-06 13:41:26.961] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-06 13:41:26.961] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-06 13:41:26.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-06 13:41:26.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-06 13:41:26.968] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2020-07-06 13:41:26.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kyle/.vscode/extensions/asvetliakov.vscode-neovim-0.0.50/out/extension.js
+[2020-07-06 13:41:27.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-06 13:41:27.204] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/35/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-06 13:41:27.294] [exthost] [info] eager extensions activated

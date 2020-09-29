@@ -1,0 +1,8 @@
+[2020-06-18 16:12:01.636] [sharedprocess] [info] main {"machineId":"0eb6bc737832c9062c7435cc8f365795c0d7a6fb6e6383623dcf486d030fda11","windowId":2}
+[2020-06-18 16:12:03.358] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-18 16:12:07.293] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/51618bcc-1000-4b96-b3e2-bd9bf4a6dfff
+[2020-06-18 16:12:08.841] [sharedprocess] [info] Extracted extension to /home/kyle/.vscode/extensions/.ms-python.python-2020.6.88468: ms-python.python
+[2020-06-18 16:12:08.841] [sharedprocess] [info] Renamed to /home/kyle/.vscode/extensions/ms-python.python-2020.6.88468
+[2020-06-18 16:12:08.845] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-18 16:12:08.867] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-06-18 16:12:41.653] [sharedprocess] [info] Starting to clean up unused language packs.

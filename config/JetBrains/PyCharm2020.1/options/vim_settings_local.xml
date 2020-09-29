@@ -1,0 +1,101 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1595031181918">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595304949252">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1595303218524">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/sampling.py" timestamp="1595304838527">
+        <mark key="[" line="56" column="65" />
+        <mark key="]" line="56" column="67" />
+        <mark key="." line="56" column="66" />
+        <mark key="^" line="56" column="67" />
+      </file>
+      <file name="/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/download_data.py" timestamp="1595034369639">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Load Data" timestamp="1595258148398">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dimensionality Analysis" timestamp="1595034532279">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/Tests/data_examine.py" timestamp="1595304906224">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="25" column="7" />
+      </file>
+      <file name="/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines/Code/dimensionality_analysis.py" timestamp="1595033364682">
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Examine Data" timestamp="1595304193941">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Inspect Data" timestamp="1595297006142">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSB5OiB4LWNvb3JkaW5hdGUgb2YgcG9pbnQgaW4gM2Qgc3BhY2UgdG8gY2VudGVyIHNhbXBsaW5nIGRpc3RyaWJ1dGlvbiBhcm91bmQK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text># Variance of a spherically symmetrical gaussian</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmJ1dBUk5JTkchIEFza2luZyBmb3IgdG9vIG1hbnkgbmV1cm9ucy4gQXNrZWQgZm9yIHt9JykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CmRlZiBfZ2F1c3MzKHgsIG1lYW4sIGNvdik6CiAgICAiIiIzZCBnYXVzc2lhbiIiIg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHRyeToK</text>
+      </register>
+      <register name="-" type="4">
+        <text># Variance of a spherically symmetrical gaussian</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

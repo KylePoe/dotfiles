@@ -1,0 +1,5 @@
+np.cos(theta)
+-. . -..- - / . -. - .-. -.--
+np.c_([np.cos(theta), np.sin(theta)])
+-. . -..- - / . -. - .-. -.--
+np.c_([0, 1])

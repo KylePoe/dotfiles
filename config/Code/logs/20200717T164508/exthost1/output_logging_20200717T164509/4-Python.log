@@ -1,0 +1,102 @@
+User belongs to experiment group 'AlwaysDisplayTestExplorer - control'
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - control'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'DeprecatePythonPath - control'
+User belongs to experiment group 'RunByLine - control'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaacf'
+Error 2020-07-17 16:45:09: Exception while attempting zmq : [Error: /snap/core/current/usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found (required by /home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node)
+	at process.func (electron/js2c/asar.js:140:31)
+	at process.func [as dlopen] (electron/js2c/asar.js:140:31)
+	at Object.Module._extensions..node (internal/modules/cjs/loader.js:967:18)
+	at Object.func (electron/js2c/asar.js:140:31)
+	at Object.func [as .node] (electron/js2c/asar.js:140:31)
+	at Module.load (internal/modules/cjs/loader.js:780:32)
+	at Module._load (internal/modules/cjs/loader.js:693:12)
+	at Module._load (electron/js2c/asar.js:717:26)
+	at Function.Module._load (electron/js2c/asar.js:717:26)
+	at Function.t._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:974:348)
+	at Function.i._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:943:839)
+	at Function.n._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:940:198)
+	at Module.require (internal/modules/cjs/loader.js:820:19)
+	at n (/snap/code/37/usr/share/code/resources/app/out/vs/loader.js:15:731)
+	at load (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/node_modules/node-gyp-build/index.js:21:10)
+	at Object.<anonymous> (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/node_modules/zeromq/lib/native.js:6:43)
+	at Module.o._compile (/snap/code/37/usr/share/code/resources/app/out/vs/loader.js:15:956)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:937:10)
+	at Module.load (internal/modules/cjs/loader.js:780:32)
+	at Module._load (internal/modules/cjs/loader.js:693:12)
+	at Module._load (electron/js2c/asar.js:717:26)
+	at Function.Module._load (electron/js2c/asar.js:717:26)
+	at Function.t._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:974:348)
+	at Function.i._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:943:839)
+	at Function.n._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:940:198)
+	at Module.require (internal/modules/cjs/loader.js:820:19)
+	at n (/snap/code/37/usr/share/code/resources/app/out/vs/loader.js:15:731)
+	at Object.<anonymous> (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/node_modules/zeromq/lib/index.js:3:16)
+	at Module.o._compile (/snap/code/37/usr/share/code/resources/app/out/vs/loader.js:15:956)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:937:10)
+	at Module.load (internal/modules/cjs/loader.js:780:32)
+	at Module._load (internal/modules/cjs/loader.js:693:12)
+	at Module._load (electron/js2c/asar.js:717:26)
+	at Function.Module._load (electron/js2c/asar.js:717:26)
+	at Function.t._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:974:348)
+	at Function.i._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:943:839)
+	at Function.n._load (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:940:198)
+	at Module.require (internal/modules/cjs/loader.js:820:19)
+	at n (/snap/code/37/usr/share/code/resources/app/out/vs/loader.js:15:731)
+	at Object.<anonymous> (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:24:164337)
+	at n (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:1:186)
+	at /home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:706568
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+	at async d.zmqSupportedImpl (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:706535)]
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> ~/.conda/envs/NMA/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> conda info --json
+> conda info --json
+> conda info --json
+> conda env list
+> conda env list
+Error 2020-07-17 16:45:10: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content/.vscode/settings.json')
+	at _handleError (/snap/code/37/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:657:25)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+	at async v.readText (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:1:571152)
+	at async p.doesFileNeedToBeFixed (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:932108)
+	at async /home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:931235
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:931181)
+	at async p.updateTestSettings (/home/kyle/.vscode/extensions/ms-python.python-2020.7.94776/out/client/extension.js:48:930808)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Starting Microsoft Python language server.
+Python interpreter path: ~/.conda/envs/NMA/bin/python
+> ~/.conda/envs/NMA/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/.conda/envs/NMA/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/.conda/envs/NMA/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+> ~/.conda/envs/NMA/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.conda/envs/NMA/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.conda/envs/NMA/bin/python ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/.conda/envs/NMA/bin/python (daemon) -m jupyter notebook --no-browser --notebook-dir=/tmp/0a072063-9864-4e87-a875-0f8993d96a8e --config=/tmp/0a072063-9864-4e87-a875-0f8993d96a8e/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+> ~/.conda/envs/NMA/bin/python (daemon) -m jupyter kernelspec list --json
+> ~/.conda/envs/NMA/bin/python (daemon) -m jupyter kernelspec list --json
+> ~/.conda/envs/NMA/bin/python (daemon) ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/vscode_datascience_helpers/getJupyterKernels.py
+> ~/.conda/envs/NMA/bin/python (daemon) ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/vscode_datascience_helpers/getJupyterKernels.py
+> ~/.conda/envs/NMA/bin/python (daemon) ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> ~/.conda/envs/NMA/bin/python (daemon) ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> ~/.conda/envs/NMA/bin/python (daemon) ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> ~/.conda/envs/NMA/bin/python (daemon) ~/.vscode/extensions/ms-python.python-2020.7.94776/pythonFiles/vscode_datascience_helpers/getServerInfo.py

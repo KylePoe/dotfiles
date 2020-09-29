@@ -1,0 +1,28 @@
+Starting Jupyter from ~/.conda/envs/NMA/bin/python with command line --no-browser --notebook-dir=/tmp/08522880-781b-4dc1-bb0e-abee73f0198b --config=/tmp/08522880-781b-4dc1-bb0e-abee73f0198b/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+[I 16:23:21.842 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:23:21.846 NotebookApp] Serving notebooks from local directory: /tmp/08522880-781b-4dc1-bb0e-abee73f0198b
+[I 16:23:21.846 NotebookApp] The Jupyter Notebook is running at:
+[I 16:23:21.846 NotebookApp] http://localhost:8889/?token=d40702de9dfdf719bbc24da9fd0ac93ed724a82c87db163f
+[I 16:23:21.846 NotebookApp]  or http://127.0.0.1:8889/?token=d40702de9dfdf719bbc24da9fd0ac93ed724a82c87db163f
+[I 16:23:21.846 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:23:21.850 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/kyle/.local/share/jupyter/runtime/nbserver-12238-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=d40702de9dfdf719bbc24da9fd0ac93ed724a82c87db163f
+     or http://127.0.0.1:8889/?token=d40702de9dfdf719bbc24da9fd0ac93ed724a82c87db163f
+[I 16:23:21.996 NotebookApp] Creating new notebook in /
+[I 16:23:22.003 NotebookApp] Writing notebook-signing key to /home/kyle/.local/share/jupyter/notebook_secret
+[I 16:23:22.042 NotebookApp] Kernel started: 39a8f43d-8ba3-463a-9484-c68459f2623b
+[I 16:23:22.611 NotebookApp] Creating new notebook in /
+[I 16:23:22.629 NotebookApp] Kernel started: 886c9c5a-20c2-4e12-9978-23c71a99a8be
+[I 16:35:29.285 NotebookApp] Creating new notebook in /
+[I 16:35:29.315 NotebookApp] Kernel started: ad96321c-8ed1-4b73-85c4-c89ea22d14a7
+[I 16:35:29.738 NotebookApp] Creating new notebook in /
+[I 16:35:29.765 NotebookApp] Kernel started: b74bbabe-16d8-460c-8fe3-368389c463a1
+[I 16:35:31.467 NotebookApp] Kernel shutdown: ad96321c-8ed1-4b73-85c4-c89ea22d14a7
+[I 16:35:31.674 NotebookApp] Kernel shutdown: b74bbabe-16d8-460c-8fe3-368389c463a1
+[W 16:35:31.877 NotebookApp] Got events for closed stream None
+[C 16:38:59.402 NotebookApp] received signal 15, stopping
+[I 16:38:59.402 NotebookApp] Shutting down 2 kernels

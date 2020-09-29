@@ -1,0 +1,36 @@
+Downloading https://pvsc.azureedge.net/python-language-server-stable/Python-Language-Server-linux-x64.0.5.51.nupkg...
+Language server download complete
+Unpacking archive... done
+[Info  - 4:22:47 PM] Analysis cache path: /home/kyle/.cache/Microsoft/Python Language Server
+[Info  - 4:22:47 PM] Microsoft Python Language Server version 0.5.51.0
+[Info  - 4:22:47 PM] Workspace root: /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content
+[Info  - 4:22:47 PM] GetCurrentSearchPaths /home/kyle/.conda/envs/testenv/bin/python 
+[Info  - 4:22:47 PM] Interpreter search paths:
+[Info  - 4:22:47 PM]     /home/kyle/.conda/envs/testenv/lib/python3.8
+[Info  - 4:22:47 PM]     /home/kyle/.conda/envs/testenv/lib/python3.8/lib-dynload
+[Info  - 4:22:47 PM]     /home/kyle/.local/lib/python3.8/site-packages
+[Info  - 4:22:47 PM]     /home/kyle/.conda/envs/testenv/lib/python3.8/site-packages
+[Info  - 4:22:47 PM] User search paths:
+[Info  - 4:22:48 PM] Initializing for /home/kyle/.conda/envs/testenv/bin/python
+[Info  - 4:22:50 PM] Analysis cache path: /home/kyle/.cache/Microsoft/Python Language Server
+[Info  - 4:22:50 PM] Microsoft Python Language Server version 0.5.51.0
+[Info  - 4:22:50 PM] Workspace root: /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/Course Content
+[Info  - 4:22:50 PM] GetCurrentSearchPaths /home/kyle/.conda/envs/NMA/bin/python 
+[Info  - 4:22:50 PM] Interpreter search paths:
+[Info  - 4:22:50 PM]     /home/kyle/.conda/envs/NMA/lib/python3.8
+[Info  - 4:22:50 PM]     /home/kyle/.conda/envs/NMA/lib/python3.8/lib-dynload
+[Info  - 4:22:50 PM]     /home/kyle/.local/lib/python3.8/site-packages
+[Info  - 4:22:50 PM]     /home/kyle/.conda/envs/NMA/lib/python3.8/site-packages
+[Info  - 4:22:50 PM] User search paths:
+[Info  - 4:22:51 PM] Initializing for /home/kyle/.conda/envs/NMA/bin/python
+[Info  - 4:36:22 PM] Analysis cache path: /home/kyle/.cache/Microsoft/Python Language Server
+[Info  - 4:36:22 PM] Microsoft Python Language Server version 0.5.51.0
+[Info  - 4:36:22 PM] Workspace root: /media/kyle/shared_fs_mountpoint/Documents/Academic/Neuromatch Academy/NMA_Project_Ruby_Ermines
+[Info  - 4:36:22 PM] GetCurrentSearchPaths /home/kyle/.conda/envs/NMA/bin/python 
+[Info  - 4:36:22 PM] Interpreter search paths:
+[Info  - 4:36:22 PM]     /home/kyle/.conda/envs/NMA/lib/python3.8
+[Info  - 4:36:22 PM]     /home/kyle/.conda/envs/NMA/lib/python3.8/lib-dynload
+[Info  - 4:36:22 PM]     /home/kyle/.local/lib/python3.8/site-packages
+[Info  - 4:36:22 PM]     /home/kyle/.conda/envs/NMA/lib/python3.8/site-packages
+[Info  - 4:36:22 PM] User search paths:
+[Info  - 4:36:22 PM] Initializing for /home/kyle/.conda/envs/NMA/bin/python

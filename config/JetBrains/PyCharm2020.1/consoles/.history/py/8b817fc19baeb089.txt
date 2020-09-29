@@ -1,0 +1,5 @@
+from course_markdown import format_class_md
+-. . -..- - / . -. - .-. -.--
+format_class_md()
+-. . -..- - / . -. - .-. -.--
+format_class_md(3)

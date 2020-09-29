@@ -1,0 +1,8 @@
+{
+    "vscode-neovim.neovimPath": "/usr/bin/nvim",
+    "python.jediEnabled": false,
+    "python.languageServer": "Microsoft",
+    "terminal.integrated.inheritEnv": false,
+    "git.confirmSync": false,
+    "git.autofetch": true
+}

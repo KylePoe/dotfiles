@@ -1,0 +1,15 @@
+[2020-07-06 13:41:27.888] [sharedprocess] [info] main {"machineId":"0eb6bc737832c9062c7435cc8f365795c0d7a6fb6e6383623dcf486d030fda11","windowId":2}
+[2020-07-06 13:41:28.125] [sharedprocess] [info] Deleted from disk ms-python.python /home/kyle/.vscode/extensions/ms-python.python-2020.6.88468
+[2020-07-06 13:41:29.707] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-07-06 13:41:33.583] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/71b6fb8a-22ed-4187-ac6d-7ff6a713fcfd
+[2020-07-06 13:41:35.119] [sharedprocess] [info] Extracted extension to /home/kyle/.vscode/extensions/.ms-python.python-2020.6.91350: ms-python.python
+[2020-07-06 13:41:35.119] [sharedprocess] [info] Renamed to /home/kyle/.vscode/extensions/ms-python.python-2020.6.91350
+[2020-07-06 13:41:35.125] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-07-06 13:41:35.142] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-07-06 13:42:07.903] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-06 13:42:16.117] [sharedprocess] [info] Installing extension: james-yu.latex-workshop
+[2020-07-06 13:42:17.487] [sharedprocess] [info] Downloaded extension: james-yu.latex-workshop /tmp/c3d50f4e-9cb7-467f-9482-fac60d7412f1
+[2020-07-06 13:42:19.490] [sharedprocess] [info] Extracted extension to /home/kyle/.vscode/extensions/.james-yu.latex-workshop-8.11.1: james-yu.latex-workshop
+[2020-07-06 13:42:19.490] [sharedprocess] [info] Renamed to /home/kyle/.vscode/extensions/james-yu.latex-workshop-8.11.1
+[2020-07-06 13:42:19.493] [sharedprocess] [info] Installation completed. james-yu.latex-workshop
+[2020-07-06 13:42:19.508] [sharedprocess] [info] Extensions installed successfully: james-yu.latex-workshop

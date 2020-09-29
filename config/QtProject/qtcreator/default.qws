@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.12.3, 2020-06-20T19:59:45. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAAAAAABAAAAegAvAGgAbwBtAGUALwBrAHkAbABlAC8ARABvAGMAdQBtAGUAbgB0AHMALwBRAHQAIABUAGUAcwB0AHMALwB1AGkAXwBwAHIAbwB0AG8AdAB5AHAAZQAvAHAAbwBrAGUAYgBhAGwAbABfAFAATgBHADEANQAuAHAAbgBnAAAAJABwAG8AawBlAGIAYQBsAGwAXwBQAE4ARwAxADUALgBwAG4AZwAAABNFZGl0b3JzLkltYWdlVmlld2VyAAAAAL0AAAANY3VycmVudGVkaXRvcgAAAHoALwBoAG8AbQBlAC8AawB5AGwAZQAvAEQAbwBjAHUAbQBlAG4AdABzAC8AUQB0ACAAVABlAHMAdABzAC8AdQBpAF8AcAByAG8AdABvAHQAeQBwAGUALwBwAG8AawBlAGIAYQBsAGwAXwBQAE4ARwAxADUALgBwAG4AZwAAACYARQBkAGkAdABvAHIAcwAuAEkAbQBhAGcAZQBWAGkAZQB3AGUAcv////8AAAAA</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList">
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/kyle/Documents/Qt Tests/testing/main.py</value>
+    <value type="int" key="linenumber">12</value>
+   </valuemap>
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/kyle/Documents/Qt Tests/untitled/main.py</value>
+    <value type="int" key="linenumber">9</value>
+   </valuemap>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-DebuggerSeparateWidgetGeometry</variable>
+  <value type=""></value>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DebuggerSeparateWidgetGeometry</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>

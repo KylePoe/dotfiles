@@ -1,0 +1,3 @@
+[2020-06-14 12:44:20.232] [sharedprocess] [info] main {"machineId":"0eb6bc737832c9062c7435cc8f365795c0d7a6fb6e6383623dcf486d030fda11","windowId":2}
+[2020-06-14 12:44:20.251] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kyle/.config/Code/User/snippets'
+[2020-06-14 12:45:00.239] [sharedprocess] [info] Starting to clean up unused language packs.

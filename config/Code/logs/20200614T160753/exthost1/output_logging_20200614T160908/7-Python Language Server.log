@@ -1,0 +1,15 @@
+Downloading https://pvsc.azureedge.net/python-language-server-stable/Python-Language-Server-linux-x64.0.5.50.nupkg...
+Language server download complete
+Unpacking archive... done
+[Info  - 4:09:14 PM] Analysis cache path: /home/kyle/.cache/Microsoft/Python Language Server
+[Info  - 4:09:14 PM] Microsoft Python Language Server version 0.5.50.0
+[Info  - 4:09:14 PM] Workspace root: 
+[Info  - 4:09:14 PM] GetCurrentSearchPaths /opt/conda/bin/python 
+[Info  - 4:09:14 PM] Interpreter search paths:
+[Info  - 4:09:14 PM]     /opt/conda/lib/python3.8
+[Info  - 4:09:14 PM]     /opt/conda/lib/python3.8/lib-dynload
+[Info  - 4:09:14 PM]     /home/kyle/.local/lib/python3.8/site-packages
+[Info  - 4:09:14 PM]     /opt/conda/lib/python3.8/site-packages
+[Info  - 4:09:14 PM] User search paths:
+[Info  - 4:09:15 PM] Initializing for /opt/conda/bin/python
+[Info  - 4:09:15 PM] Analysis caching mode: None.
