@@ -3,10 +3,7 @@ C:\Users\kylep\miniconda3\envs\NMA
 C:\Users\kylep\miniconda3
 C:\Users\kylep\miniconda3\envs\mcserver
 C:\Users\kylep\miniconda3\envs\psort_0_4_25
-C:\Users\kylep\miniconda3\envs\psort_test
 C:\Users\kylep\miniconda3\envs\test_env
-C:\Users\kylep\miniconda3\envs\psort_test_env
-C:\Users\kylep\miniconda3\envs\psort_testc
 C:\Users\kylep\miniconda3\envs\psort_0_4_25\envs\psort_test
 C:\Users\kylep\miniconda3\envs\psort_0_4_25\envs\the_last_straw
 C:\Users\kylep\miniconda3\envs\psort_0_4_25\conda-bld\psort_1601743509203\_h_env
@@ -16,7 +13,6 @@ C:\Users\kylep\miniconda3\envs\test_n_stuff
 C:\Users\kylep\miniconda3\envs\Shadmehr Lab
 C:\Users\kylep\miniconda3\envs\psort-0-4-38-test
 C:\Users\kylep\miniconda3\envs\psort-0-4-38-test-3-8
-C:\Users\kylep\miniconda3\envs\jupyterlab
 C:\Users\kylep\miniconda3\envs\jlab3
 C:\Users\kylep\miniconda3\envs\testenv
 C:\Users\kylep\miniconda3\envs\tenv

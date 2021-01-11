@@ -1,0 +1,11 @@
+/home/kyle/.conda/envs/snowflakes
+/home/kyle/.conda/envs/snakes
+/home/kyle/.conda/envs/snakeyboi
+/home/kyle/.conda/envs/newsnake
+/home/kyle/.conda/envs/arm_control
+/home/kyle/.conda/envs/PyQt_Experiment
+/home/kyle/.conda/envs/testenv
+/home/kyle/.conda/envs/scipy_tutorial
+/home/kyle/.conda/envs/NMA
+/home/kyle/.conda/envs/neovim
+/home/kyle/.conda/envs/nvim_py2
