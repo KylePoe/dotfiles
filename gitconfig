@@ -1,5 +1,7 @@
 [user]
-	email = kpoe2@jhmi.edu
+	email = kyle@kpoe.me
 	name = Kyle Poe
-[core]
-	autocrlf = input
+[gui]
+	recentrepo = D:/Documents/Notes
+	recentrepo = D:/Documents/Academic/Neuromatch Academy/Course Content
+	recentrepo = D:/Documents/Projects/COVID-19 Tracking/COVID-19
